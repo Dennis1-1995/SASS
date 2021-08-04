@@ -1,0 +1,14 @@
+// Kleuren
+$backgroundHeader: #f0ffe8;
+$backgoundHeaderLine: #000;
+$backgroundHero: #97d279;
+$backgoundAbout: #97d279;
+
+//Padding
+$standaardPadding: 20px;
+
+//Mixins
+@mixin flex {
+  display: flex;
+  align-items: center;
+}
